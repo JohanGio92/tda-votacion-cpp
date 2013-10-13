@@ -50,7 +50,7 @@ class Opcion {
         /*
          * post: devuelve la cantidad de votos acumulados.
          */
-        unsigned int obtenerVotos();
+        unsigned int contarVotos();
 
 };
 

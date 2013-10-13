@@ -26,7 +26,7 @@ void Opcion::votar() {
     this->votos++;
 }
 
-unsigned int Opcion::obtenerVotos() {
+unsigned int Opcion::contarVotos() {
 
     return this->votos;
 }
