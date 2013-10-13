@@ -58,7 +58,7 @@ unsigned int Encuesta::contarVotosTotales() {
 
     for (int numero = 1; numero <= this->contarOpciones(); numero++) {
 
-        votos += this->obtenerOpcion(numero)->obtenerVotos();
+        votos += this->obtenerOpcion(numero)->contarVotos();
     }
 
     return votos;

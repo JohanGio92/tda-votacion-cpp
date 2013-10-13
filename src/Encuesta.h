@@ -5,7 +5,7 @@
 
 #include "Opcion.h"
 
-/**
+/*
  * Una Encuesta es una pregunta que ofrece múltiples opciones para responderla y que contabiliza los votos recibidos.
  *
  * Toda Encuesta posee como mínimo 2 Opciones. Una Opción se identifica dentro de la Encuesta por su número
