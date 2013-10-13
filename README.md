@@ -8,7 +8,7 @@ Implementar el TDA `Encuesta`.
 
 Una `Encuesta` es una pregunta que ofrece múltiples opciones para responderla y que contabiliza los votos recibidos.  
 
-Desarrollar una aplicación para llevar adelante una votación: creando una `Encuenta` y permitiendo votar en la misma.
+Desarrollar una aplicación para llevar adelante una votación: creando una `Encuesta` y permitiendo votar en la misma.
 
 ### Etapa 1
 
@@ -22,6 +22,6 @@ Encuesta.
 
 
 
-[etapa1.opcion.h]:../etapa1/src/Opcion.cpp
+[etapa1.opcion.h]:../etapa1/src/Opcion.h
 [etapa1.opcion.cpp]:../etapa1/src/Opcion.cpp
 
