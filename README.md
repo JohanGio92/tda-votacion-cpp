@@ -17,7 +17,7 @@ Encuesta.
 
 `Opcion.h` [ver][etapa1.opcion.h]
 
-`Opcion.cpp` [ver][etapa1.opcion.h]
+`Opcion.cpp` [ver][etapa1.opcion.cpp]
 
 ### Etapa 2: TDA Encuesta
 
